@@ -23,7 +23,3 @@ The scraper extracts team names and win counts, cleans the data, and stores it i
 3. Navigates table rows to extract structured data
 4. Cleans and stores results in a CSV file
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python scraper.py
